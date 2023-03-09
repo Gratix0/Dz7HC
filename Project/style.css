@@ -21,7 +21,7 @@ header{
     width: 100%;
     background-color: black;
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 2fr 2fr;
     grid-template-areas: "left right header_logo";
 }
 .header_logo{
